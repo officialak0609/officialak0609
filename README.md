@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQWZqKtYsNNCchgkPwHzmXkDYlP2dQdEaNqQ&usqp=CAU)](https://codegrills.in)
+[![MasterHead](https://media.licdn.com/dms/image/C5612AQFdSCSeiJnCPw/article-cover_image-shrink_720_1280/0/1647327762914?e=2147483647&v=beta&t=IAJ54e-m0BfBAmpCXapVhGPLw8WRoQIH1Wq1LVaYxm4)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">We Aware Be Safe !</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
